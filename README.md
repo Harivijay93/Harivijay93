@@ -31,7 +31,7 @@
 🛍️ **[My E-commerce Site](https://github.com/yourusername/ecommerce-project)**  
 A modern, responsive storefront with a smooth checkout flow, custom components, and cart logic.
 
-🌗 **[Dark/Light Mode Landing Page]([https://github.com/yourusername/landing-page](https://github.com/Harivijay93/DarkLight-Mode.git))**  
+🌗 **[Dark/Light Mode Landing Page](https://github.com/Harivijay93/DarkLight-Mode.git)**  
 Modern, responsive one-pager built with React, Vite, and Tailwind CSS. 
 
 ---
